@@ -1,0 +1,11 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,winner
+1,2008,Bangalore,2008-04-18,KKR,RCB,RCB,field,normal,KKR
+2,2008,Chennai,2008-04-19,CSK,MI,CSK,bat,normal,CSK
+3,2008,Delhi,2008-04-19,DD,RR,RR,field,normal,RR
+4,2008,Hyderabad,2008-04-20,DC,KKR,DC,bat,normal,KKR
+5,2008,Jaipur,2008-04-21,RR,PBKS,PBKS,bat,normal,RR
+6,2008,Mumbai,2008-04-22,MI,CSK,MI,field,normal,CSK
+7,2008,Bangalore,2008-04-23,RCB,RR,RCB,bat,normal,RR
+8,2008,Chennai,2008-04-23,CSK,KKR,CSK,field,normal,CSK
+9,2008,Delhi,2008-04-24,DD,MI,MI,field,normal,DD
+10,2008,Hyderabad,2008-04-24,DC,PBKS,DC,bat,normal,PBKS
